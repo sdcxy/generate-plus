@@ -20,7 +20,7 @@
 
     <name>generate-plus</name>
     <description>this is a generate-plus</description>
-    <url>https://github.com/sdcxy/maven-repository/</url>
+    <url>https://github.com/sdcxy/generate-plus.git</url>
 
 
     <licenses>
@@ -40,9 +40,9 @@
 
     <scm>
         <tag>master</tag>
-        <connection>scm:git@github.com:sdcxy/maven-repository.git</connection>
-        <developerConnection>scm:git@github.com:sdcxy/maven-repository.git</developerConnection>
-        <url>https://github.com/sdcxy/maven-repository.git</url>
+        <connection>scm:git@github.com:sdcxy/generate-plus.git</connection>
+        <developerConnection>scm:git@github.com:sdcxy/generate-plus.git</developerConnection>
+        <url>https://github.com/sdcxy/generate-plus.git</url>
     </scm>
 
     <distributionManagement>
